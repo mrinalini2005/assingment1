@@ -1,0 +1,5 @@
+file = open("name.txt", "w")
+file.write("Ambiya")
+file.close()
+
+print("Name written to file.")
